@@ -1,7 +1,9 @@
+[![Actions Status](https://github.com/khalidelborai/raku-Resend/actions/workflows/test.yml/badge.svg)](https://github.com/khalidelborai/raku-Resend/actions)
+
 NAME
 ====
 
-Resend - blah blah blah
+Resend - Raku SDK for Resend
 
 SYNOPSIS
 ========
@@ -13,7 +15,7 @@ use Resend;
 DESCRIPTION
 ===========
 
-Resend is ...
+Raku SDK for Resend
 
 AUTHOR
 ======
