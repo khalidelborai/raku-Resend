@@ -1,0 +1,31 @@
+{
+  "name": "Resend",
+  "description": "Raku SDK for Resend",
+  "version": "0.0.1",
+  "perl": "6.d",
+  "authors": [
+    "khalidelborai"
+  ],
+  "auth": "zef:khalidelborai",
+  "depends": [
+    "Cro::HTTP"
+  ],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Resend": "lib/Resend.rakumod",
+    "Resend::Domains": "lib/Resend/Domains.rakumod",
+    "Resend::Emails": "lib/Resend/Emails.rakumod",
+    "Resend::Exceptions": "lib/Resend/Exceptions.rakumod",
+    "Resend::Keys": "lib/Resend/Keys.rakumod"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "tags": [
+    "email",
+    "sdk",
+    "resend",
+    "api"
+  ],
+  "source-url": "https://github.com/khalidelborai/raku-Resend.git"
+}
