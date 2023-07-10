@@ -2,8 +2,11 @@ Revision history for Resend
 
 {{$NEXT}}
 
+0.0.5  2023-07-10T14:20:10+02:00
+    this is the last one i swear
+
 0.0.4  2023-07-10T14:13:12+02:00
-    Bump version number to 0.0.3 after release and plan for docs
+    Bump version number to 0.0.4 after release and plan for docs
 
 0.0.2  2023-07-10T14:10:21+02:00
     - Initial version
