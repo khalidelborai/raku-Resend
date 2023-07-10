@@ -56,6 +56,10 @@ Resend - Raku SDK for Resend
 
 use Resend;
 
+my $resend = Resend.new("YOUR_API_KEY");
+
+say $resend.domains.list;
+
 =end code
 
 =head1 DESCRIPTION

@@ -10,6 +10,10 @@ SYNOPSIS
 
 ```raku
 use Resend;
+
+my $resend = Resend.new("YOUR_API_KEY");
+
+say $resend.domains.list;
 ```
 
 DESCRIPTION
